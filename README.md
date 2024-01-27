@@ -8,7 +8,7 @@
 
 I'm an aspiring Data Scientist, excited about the limitless possibilities of using data to derive actionable insights and create meaningful impact!
 
-- 🌟 **Experience:** 3+ years in data science and analytics, building solutions to boost business growth and efficiency.
+- 🌟 **Experience:** 3+ years in data science and product management, building solutions to boost business growth and efficiency.
 - 🛠️ **Tools:** Skilled in using Python, SQL, R, Microsoft Excel, Power BI, and Tableau.
 - 📚 **Education:** Currently studying [Master of Management in Analytics](https://www.mcgill.ca/desautels/programs/mma) at McGill University.
 - 💡 **Industry Expertise:** Unique perspectives from working in healthcare, e-commerce, and telecommunications sectors.
